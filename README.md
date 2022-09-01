@@ -4,7 +4,7 @@
 
 # 运行
 ```
-./tapris
+./BufferOverflowKiller.py
 ```
 ![image](https://user-images.githubusercontent.com/52622597/178109191-546a5a59-5556-4dd0-9984-2eac83e73107.png)
 
