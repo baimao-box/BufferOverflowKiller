@@ -6,7 +6,7 @@
 ```
 ./BufferOverflowKiller.py
 ```
-![image](https://user-images.githubusercontent.com/52622597/178109191-546a5a59-5556-4dd0-9984-2eac83e73107.png)
+![image](https://user-images.githubusercontent.com/52622597/187816563-d2611b8e-8003-4e87-89fa-47c2a8b350a9.png)
 
 # 模块解释
 ```
