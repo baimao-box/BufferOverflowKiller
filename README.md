@@ -1,5 +1,4 @@
 # Tapris v1.0
-![89850102_p0](https://user-images.githubusercontent.com/52622597/178109451-1e0e23ad-c470-4519-9aba-d9d5d0e4659b.png)
 
 一个用于缓冲区溢出攻击的工具
 
