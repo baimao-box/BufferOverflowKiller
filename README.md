@@ -1,4 +1,6 @@
 # BufferOverflowKiller v1.0
+### [English](https://github.com/baimao-box/BufferOverflowKiller/edit/main/English.md)
+
 
 一个用于缓冲区溢出攻击的工具
 
@@ -10,24 +12,24 @@
 
 # 模块解释
 ```
-1.更改目标ip地址和端口
-2.目标程序缓冲区溢出测试
-3.获取程序溢出边界数值
-4.排除坏字符
-5.pwn掉程序，获取回连shell
+1. 更改目标ip地址和端口
+2. 目标程序缓冲区溢出测试
+3. 获取程序溢出边界数值
+4. 排除坏字符
+5. pwn掉程序，获取回连shell
 ```
 
 # 实战演示
-## 1.设置目标IP和端口
+## 1. 设置目标IP和端口
 ![image](https://user-images.githubusercontent.com/52622597/178109492-fa2ca80b-e7b4-4644-8b1f-c6e732916ddc.png)
 ![image](https://user-images.githubusercontent.com/52622597/178109495-958ac298-1aa4-4057-97a2-3ccec5a88446.png)
 
-## 2.模糊测试目标程序的参数，看是否有缓冲区溢出漏洞
+## 2. 模糊测试目标程序的参数，看是否有缓冲区溢出漏洞
 ![image](https://user-images.githubusercontent.com/52622597/178109637-c8df4c89-24b8-4c16-b954-ee9649088bbc.png)
 ```
 发现程序溢出的区间在2000个字符内，接下来测试程序详细的溢出边界数值
 ```
-## 3.测试程序详细的溢出边界数值
+## 3. 测试程序详细的溢出边界数值
 
 ![image](https://user-images.githubusercontent.com/52622597/178109694-5c7b2b41-2f7d-46df-80f9-2b4dca82bfc7.png)
 ```
