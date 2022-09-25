@@ -1,5 +1,5 @@
 # BufferOverflowKiller v1.0
-### [English](https://github.com/baimao-box/BufferOverflowKiller/edit/main/English.md)
+### [English](https://github.com/baimao-box/BufferOverflowKiller/blob/main/English.md)
 
 
 一个用于缓冲区溢出攻击的工具
