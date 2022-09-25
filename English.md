@@ -65,7 +65,7 @@ Then we open another script and follow the supplementary script prompted by the 
 Listen to the set port, then run the program to get the shell
 ```
 ![image](https://user-images.githubusercontent.com/52622597/178110133-fd8e25cd-eca0-4e7a-838e-19223792f6bc.png)
-# 其他
+# other
 ```
 The tool can execute linux commands normally when running
 ```
